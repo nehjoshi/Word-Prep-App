@@ -1,6 +1,6 @@
 import { Button, Typography } from '@mui/material';
 import React, { useEffect } from 'react'
-import { useLocation, useParams, useNavigate } from 'react-router-dom';
+import { useLocation, useParams, useNavigate, Link } from 'react-router-dom';
 import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
@@ -63,6 +63,9 @@ const Practice = () => {
                 </div>
             </div>
             <Button variant="contained" size="large" style={{ margin: "0 auto" }} onClick={handleClick} color="primary">Next</Button>
+            <footer>
+                <Link to="/" style={{color: "inherit"}}>Back to home</Link>
+            </footer>
         </div>
     )
 }
