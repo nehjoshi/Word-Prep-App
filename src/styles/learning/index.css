@@ -24,4 +24,17 @@
           flex-direction: column;
   font-size: 1.3rem;
 }
+
+.def-wrapper {
+  padding: 10px 10px;
+  margin: 5px 0px;
+  color: #2c2c2c;
+  -webkit-transition: 0.2s all ease;
+  transition: 0.2s all ease;
+  border-radius: 5px;
+}
+
+.def-wrapper:hover {
+  background-color: #e2e2e2;
+}
 /*# sourceMappingURL=index.css.map */

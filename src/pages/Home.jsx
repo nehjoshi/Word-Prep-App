@@ -2,21 +2,18 @@ import { Button } from '@mui/material';
 import React from 'react';
 import Letter from '../components/Letter';
 import "../styles/home/index.css";
-import words from "../words.json";
 import { useNavigate } from "react-router-dom"
 const Home = () => {
 
     const Letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
-    const [selectedLetter, setLetter] = React.useState('');
     const [mode, setMode] = React.useState('learning');
     const navigate = useNavigate();
 
     const setSelectedLetter = (letter) => {
-        const l = words[letter].length;
-        const randomIndex = Math.floor(Math.random() * l);
-        console.log(words[letter][randomIndex]);
-        setLetter(letter);
-        navigate(`/learning/${letter}`);
+        mode==='learning'?
+        navigate(`/learning/${letter}`)
+        :
+        navigate(`/practice/${letter}`);
     }
 
     const GenerateLetters = () => {

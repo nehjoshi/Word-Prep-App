@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react';
-import { useNavigate, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import words from "../words.json";
 import "../styles/learning/index.css";
+import Definition from '../components/Definition';
 
 const Learning = (props) => {
 
@@ -15,11 +16,10 @@ const Learning = (props) => {
         console.log(words[slug]);
         const list = words[slug];
         const elements = [];
+        let i=1;
         list.map((item, index) => {
-            elements.push(
-                <li key={index}>
-                    {Object.keys(item)}: {Object.values(item)}
-                </li>)
+            elements.push(<Definition count={i} word={Object.keys(item)} definition={Object.values(item)}/>)
+            i++;
         })
         setRenderElements(elements);
         setLoading(false);
