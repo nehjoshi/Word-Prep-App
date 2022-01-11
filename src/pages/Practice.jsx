@@ -10,7 +10,6 @@ import words from "../words.json";
 
 const Practice = () => {
     const { state } = useLocation();
-    const [loading, setLoading] = React.useState(true);
     const [word, setWord] = React.useState();
     const [definition, setDefinition] = React.useState();
     const key = parseInt(useParams().key);
@@ -19,8 +18,7 @@ const Practice = () => {
     useEffect(() => {
         setWord(state.word);
         setDefinition(state.definition);
-        setLoading(false);
-    }, [])
+    }, [state.word, state.definition])
 
     const handleClick = () => {
         const list = words[letter];
