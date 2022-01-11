@@ -3,6 +3,7 @@ import React from 'react';
 import Letter from '../components/Letter';
 import "../styles/home/index.css";
 import { useNavigate } from "react-router-dom"
+import words from "../words.json";
 const Home = () => {
 
     const Letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
@@ -10,10 +11,21 @@ const Home = () => {
     const navigate = useNavigate();
 
     const setSelectedLetter = (letter) => {
+
+        const list = words[letter];
+        const randomWord = list[Math.floor(Math.random() * list.length)];
+        const word = Object.keys(randomWord)[0];
+        const definition = Object.values(randomWord)[0];
+        console.log(word, definition);
+
         mode==='learning'?
         navigate(`/learning/${letter}`)
         :
-        navigate(`/practice/${letter}`);
+        navigate(`/practice/${letter}/1`, {
+            state: {
+                word, definition
+            }
+        })
     }
 
     const GenerateLetters = () => {

@@ -1,4 +1,4 @@
-.learning-wrapper {
+.learning-wrapper, .practice-wrapper {
     height: 100vh;
     width: 100%;
     h1 {
@@ -26,4 +26,33 @@
     &:hover {
         background-color: rgb(226, 226, 226);
     }
+}
+.practice-container {
+    width: 40%;
+    height: fit-content;
+    padding: 20px 20px;
+    margin: 100px auto;
+    position: relative;
+    font-size: 2.4rem;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    h4 {
+        margin-bottom: 50px;
+        color:rgb(70, 70, 70);
+        text-align: center;
+    }
+}
+.practice-wrapper {
+    display: flex;
+    flex-direction: column;
+
+}
+.practice-footer {
+    padding: 5px 5px;
+    width: 100%;
 }
