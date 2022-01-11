@@ -17,6 +17,18 @@
   background-color: #f5f5f5;
 }
 
+.home-wrapper h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  color: #d63a3a;
+  margin-top: 40px;
+}
+
+.home-wrapper h2 {
+  font-size: 2rem;
+  color: #3d3d3d;
+}
+
 .letter-wrapper {
   margin: 20px auto;
   width: 80%;

@@ -1,0 +1,19 @@
+.learning-wrapper {
+    height: 100vh;
+    width: 100%;
+    h1 {
+        text-align: center;
+        font-size: 5rem;
+        font-weight: bold;
+        color: rgb(214, 58, 58);
+        margin-top: 40px;
+    }
+    list-style: none;
+}
+.container {
+    width: 60%;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3rem;
+}
