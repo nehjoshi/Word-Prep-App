@@ -7,9 +7,6 @@
             "Abreast": "Up to date with the latest news, ideas, or information"
         },
         {
-            "Abstain": "Up to date with the latest news, ideas, or information"
-        },
-        {
             "Abyss": "A deep or seemingly bottomless chasm"
         },
         {
@@ -84,7 +81,7 @@
     ],
     "B": [
         {
-            "Blight": "A thing that spoils or damages something"
+            "Blight": "(Verb) A thing that spoils or damages something"
         },
         {
             "Blithe": " Showing a casual and cheerful indifference considered to be callous or improper"
@@ -96,7 +93,7 @@
             "Bolster": "Support or strengthen"
         },
         {
-            "Bombatic": "High-sounding but with little meaning"
+            "Bombastic": "High-sounding but with little meaning"
         },
         {
             "Burlesque": "Noun, a variety show. Skit, farce, striptease"
@@ -345,6 +342,11 @@
         },
         {
             "Fusillade": "A series of rapid and successive attacks"
+        }
+    ],
+    "I": [
+        {
+            "Intractable": "(Adj.) Hard to control or deal with, difficult or stubborn"
         }
     ]
 }
