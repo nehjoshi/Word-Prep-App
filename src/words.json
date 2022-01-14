@@ -7,6 +7,18 @@
             "Abreast": "Up to date with the latest news, ideas, or information"
         },
         {
+            "Abrasive": "Showing little concern for the feelings of others; harsh"
+        },
+        {
+            "Abstruse": "Difficult to understand; obscure"
+        },
+        {
+            "Accentuate": "To make more prominent or noticeable"
+        },
+        {
+            "Accord": "An official treaty or agreement, usually between two nations"
+        },
+        {
             "Abyss": "A deep or seemingly bottomless chasm"
         },
         {
@@ -14,6 +26,9 @@
         },
         {
             "Agog": "Very eager or curious to hear or see something"
+        },
+        {
+            "Ameliorate": "To make (something unsatisfactory or bad) better or improve"
         },
         {
             "Allure": "The quality of being powerfully and mysteriously attractive or fascinating"
@@ -77,6 +92,18 @@
         },
         {
             "Anodyne": "Not likely to cause offence or disagreement and somewhat dull"
+        },
+        {
+            "Acquisitive": "Having a strong desire to acquire or possess"
+        },
+        {
+            "Adroit": "Having or showing a quick and sharp mind"
+        },
+        {
+            "Adulation": "The act of excessively pleasing or flattering"
+        },
+        {
+            "Affable": "Friendly, good-natured, or easy-going"
         }
     ],
     "B": [
@@ -286,7 +313,11 @@
         },
         {
             "Extant": "Still existing"
+        },
+        {
+            "Equivocal": "Ambiguous, open to interpretation"
         }
+        
     ],
     "F": [
         {
@@ -347,6 +378,21 @@
     "I": [
         {
             "Intractable": "(Adj.) Hard to control or deal with, difficult or stubborn"
+        }
+    ],
+    "M": [
+        {
+            "Mitigate": "Make (something bad) less severe, serious, or painful"
+        }
+    ],
+    "R": [
+        {
+            "Reticent": "Not revealing one's thoughts or feelings readily."
+        }
+    ],
+    "P": [
+        {
+            "Pragmatic": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations."
         }
     ]
 }
