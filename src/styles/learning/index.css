@@ -12,6 +12,12 @@
   margin-top: 40px;
 }
 
+@media screen and (max-width: 650px) {
+  .learning-wrapper h1, .practice-wrapper h1 {
+    font-size: 2.5rem;
+  }
+}
+
 .container {
   width: 60%;
   margin: 40px auto;
@@ -71,6 +77,18 @@
   margin-bottom: 50px;
   color: #464646;
   text-align: center;
+}
+
+@media screen and (max-width: 650px) {
+  .practice-container h4 {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .practice-container {
+    width: 90%;
+  }
 }
 
 .practice-wrapper {

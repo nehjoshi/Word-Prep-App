@@ -11,10 +11,16 @@
         font-weight: bold;
         color: rgb(214, 58, 58);
         margin-top: 40px;
+        @media screen and (max-width: 650px){
+            font-size: 2.5rem;
+        }
     }
     h2 {
         font-size: 2rem;
-        color:rgb(61, 61, 61)
+        color:rgb(61, 61, 61);
+        @media screen and (max-width: 650px){
+            font-size: 1.5rem;
+        }
     }
 }
 .letter-wrapper {
@@ -25,6 +31,12 @@
     grid-gap: 1rem;
     justify-items: center;
     align-items: center;
+    @media screen and (max-width: 650px){
+        width: 90%;
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 0.5rem;
+        
+    }
 }
 .letter {
     border-radius: 50%;
@@ -39,4 +51,9 @@
         background: #dbdbdb;
         cursor: pointer
     }
+}
+.main-heading {
+    font-size: 5rem;
+    color: red;
+    
 }

@@ -36,8 +36,8 @@ const Home = () => {
 
     return (
         <div className="home-wrapper">
-            <h1>Word Preperation</h1>
-            <h2>Choose a letter to get started!</h2>
+            <h1 className="main-heading">Word Preperation</h1>
+            <h2 className="main-heading-sub">Choose a letters to get started!</h2>
             <div className="letter-wrapper">
                 {GenerateLetters()}
             </div>

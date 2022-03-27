@@ -149,6 +149,12 @@
         },
         {
             "Assiduous": "Showing great care and perserverance"
+        },
+        {
+            "Assimilation": "The process of taking in and fully understanding information or ideas."
+        },
+        {
+            "Acculturation": "The process of sharing and learning the cultural traits or social patterns of another group"
         }
     ],
     "B": [
@@ -472,6 +478,9 @@
         },
         {
             "Equivocal": "Ambiguous, open to interpretation"
+        },
+        {
+            "Estrangement": "The state of being alienated or separated in feeling or affection; a state of hostility or unfriendliness:"
         }
         
     ],
@@ -534,6 +543,9 @@
     "I": [
         {
             "Intractable": "(Adj.) Hard to control or deal with, difficult or stubborn"
+        },
+        {
+            "Investiture": "The act of process of investing"
         }
     ],
     "M": [
@@ -544,6 +556,23 @@
     "R": [
         {
             "Reticent": "Not revealing one's thoughts or feelings readily."
+        }
+    ],
+    "S": [
+        {
+            "Specious": "Apparently good or right though lacking real merit; superficially pleasing or plausible"
+        },
+        {
+            "Spurious": "Not genuine, authentic, or true; not from the claimed, pretended, or proper source; counterfeit."
+        },
+        {
+            "Squalid": "Foul and repulsive, as from lack of care or cleanliness; neglected and filthy."
+        },
+        {
+            "Stolid": "Not easily stirred or moved mentally; unemotional; impassive."
+        },
+        {
+            "Stoic": "Of or relating to the school of philosophy founded by Zeno, who taught that people should be free from passion, unmoved by joy or grief, and submit without complaint to unavoidable necessity."
         }
     ],
     "P": [

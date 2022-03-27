@@ -24,9 +24,21 @@
   margin-top: 40px;
 }
 
+@media screen and (max-width: 650px) {
+  .home-wrapper h1 {
+    font-size: 2.5rem;
+  }
+}
+
 .home-wrapper h2 {
   font-size: 2rem;
   color: #3d3d3d;
+}
+
+@media screen and (max-width: 650px) {
+  .home-wrapper h2 {
+    font-size: 1.5rem;
+  }
 }
 
 .letter-wrapper {
@@ -41,6 +53,15 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+  .letter-wrapper {
+    width: 90%;
+    -ms-grid-columns: (1fr)[5];
+        grid-template-columns: repeat(5, 1fr);
+    grid-gap: 0.5rem;
+  }
 }
 
 .letter {
@@ -64,5 +85,10 @@
 .letter:hover {
   background: #dbdbdb;
   cursor: pointer;
+}
+
+.main-heading {
+  font-size: 5rem;
+  color: red;
 }
 /*# sourceMappingURL=index.css.map */

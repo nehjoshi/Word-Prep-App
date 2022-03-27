@@ -40,7 +40,7 @@ const Practice = () => {
 
     return (
         <div className="practice-wrapper">
-            <h1>Practice words starting with A</h1>
+            <h1>Practice words starting with {letter}</h1>
             <div className="practice-container">
                 <h4>What is the meaning of <br />{word}?</h4>
                 <div className="practice-footer">
