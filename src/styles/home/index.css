@@ -14,7 +14,7 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #f5f5f5;
+  background-color: #404040;
 }
 
 .home-wrapper h1 {
@@ -32,7 +32,7 @@
 
 .home-wrapper h2 {
   font-size: 2rem;
-  color: #3d3d3d;
+  color: #d63a3a;
 }
 
 @media screen and (max-width: 650px) {
@@ -65,8 +65,8 @@
 }
 
 .letter {
-  border-radius: 50%;
-  background: transparent;
+  border-radius: 2px;
+  color: #fff;
   height: 50px;
   width: 50px;
   display: -webkit-box;
@@ -84,6 +84,7 @@
 
 .letter:hover {
   background: #dbdbdb;
+  color: #000;
   cursor: pointer;
 }
 
