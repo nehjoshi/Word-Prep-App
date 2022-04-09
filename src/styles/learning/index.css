@@ -1,6 +1,9 @@
 .learning-wrapper, .practice-wrapper {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
+  overflow-x: hidden;
+  background-color: #404040;
+  color: #fff;
   list-style: none;
 }
 
@@ -34,14 +37,10 @@
 .def-wrapper {
   padding: 10px 10px;
   margin: 5px 0px;
-  color: #2c2c2c;
+  color: #fff;
   -webkit-transition: 0.2s all ease;
   transition: 0.2s all ease;
   border-radius: 5px;
-}
-
-.def-wrapper:hover {
-  background-color: #e2e2e2;
 }
 
 .practice-container {
@@ -122,6 +121,6 @@ footer {
   border-width: 0.5px;
   position: absolute;
   bottom: 0;
-  color: #3a3a3a;
+  color: #fff;
 }
 /*# sourceMappingURL=index.css.map */
