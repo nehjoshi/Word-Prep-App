@@ -1,610 +1,314 @@
 {
     "A": [
-        {
-            "Aberration": "A departure from what is normal, usual, or expected"
-        },
-        {
-            "Abreast": "Up to date with the latest news, ideas, or information"
-        },
-        {
-            "Abrasive": "Showing little concern for the feelings of others; harsh"
-        },
-        {
-            "Abstruse": "Difficult to understand; obscure"
-        },
-        {
-            "Accentuate": "To make more prominent or noticeable"
-        },
-        {
-            "Accord": "An official treaty or agreement, usually between two nations"
-        },
-        {
-            "Abyss": "A deep or seemingly bottomless chasm"
-        },
-        {
-            "Adept": "A person who is skilled in a particular field"
-        },
-        {
-            "Agog": "Very eager or curious to hear or see something"
-        },
-        {
-            "Ameliorate": "To make (something unsatisfactory or bad) better or improve"
-        },
-        {
-            "Allure": "The quality of being powerfully and mysteriously attractive or fascinating"
-        },
-        {
-            "Altruism": "The belief in or practice of selfless concern for the well-being of others"
-        },
-        {
-            "Annul": "Declare invalid"
-        },
-        {
-            "Arbiter": "A person who decides the outcome of a dispute"
-        },
-        {
-            "Artless": "Without guile or deception"
-        },
-        {
-            "Audacious": "Showing a willingness to take surprisingly bold risks"
-        },
-        {
-            "Austere": "Having an extremely plain and simple style or appearance"
-        },
-        {
-            "Abasement": "The action or fact of abasing or being abased; humiliation or degradation"
-        },
-        {
-            "Abate": "Become less intense or widespread"
-        },
-        {
-            "Accession": "The action or process of formally joining an association or institution"
-        },
-        {
-            "Acerbic": "Especially of a comment or style of speaking) sharp and forthright"
-        },
-        {
-            "Acolyte": "A person who has become an adherent of a particular religion or faith"
-        },
-        {
-            "Acumen": "The ability to make good judgments and quick decisions, typically in a particular domain"
-        },
-        {
-            "Apostle": "A vigorous and pioneering advocate or supporter of a particular cause"
-        },
-        {
-            "Apprise": "Inform or tell (someone)"
-        },
-        {
-            "Armada": "a fleet of warships"
-        },
-        {
-            "Arson": "The criminal act of deliberately setting fire to property"
-        },
-        {
-            "Ascribe": "Attribute something to (a cause)"
-        },
-        {
-            "Abeyance": "A state of temporary disuse or suspension"
-        },
-        {
-            "Abjure": "Solemnly renounce (a belief, cause, or claim)"
-        },
-        {
-            "Anodyne": "Not likely to cause offence or disagreement and somewhat dull"
-        },
-        {
-            "Acquisitive": "Having a strong desire to acquire or possess"
-        },
-        {
-            "Adroit": "Having or showing a quick and sharp mind"
-        },
-        {
-            "Adulation": "The act of excessively pleasing or flattering"
-        },
-        {
-            "Affable": "Friendly, good-natured, or easy-going"
-        },
-        {
-            "Affectation": "Behavior, speech, or manner that is intended to impress"
-        },
-        {
-            "Alacrity": "Brisk and cheerful readiness"
-        },
-        {
-            "Aloof": "Reserved or unemotional"
-        },
-        {
-            "Amiable": "Friendly, easy-going, or easy-going"
-        },
-        {
-            "Anachronism": "Belonging to a period of time that has passed"
-        },
-        {
-            "Antedate": "Precede in time; come before in time"
-        },
-        {
-            "Aplomb": "Complete and firm confidence"
-        },
-        {
-            "Antithesis": "The opposite of an idea or statement"
-        },
-        {
-            "Apologist": "A person who offers an argument in defence of something controversial"
-        },
-        {
-            "Apposite": "Apt in the circumstances or in relation to something"
-        },
-        {
-            "Appropriate": "Take something for one's own use, typically without the owner's permission"
-        },
-        {
-            "Arcane": "Understood by few; mysterious or secret"
-        },
-        {
-            "Arduous": "Difficult or laborious"
-        },
-        {
-            "Articulate": "Having or showing clear and precise expression"
-        },
-        {
-            "Assiduous": "Showing great care and perserverance"
-        },
-        {
-            "Assimilation": "The process of taking in and fully understanding information or ideas."
-        },
-        {
-            "Acculturation": "The process of sharing and learning the cultural traits or social patterns of another group"
-        }
+        {"Aberration": "A departure from what is normal, usual, or expected"},
+        {"Abreast": "Up to date with the latest news, ideas, or information"},
+        {"Abrasive": "Showing little concern for the feelings of others; harsh"},
+        {"Abstruse": "Difficult to understand; obscure"},
+        {"Accentuate": "To make more prominent or noticeable"},
+        {"Accord": "An official treaty or agreement, usually between two nations"},
+        {"Abyss": "A deep or seemingly bottomless chasm"},
+        {"Adept": "A person who is skilled in a particular field"},
+        {"Agog": "Very eager or curious to hear or see something"},
+        {"Ameliorate": "To make (something unsatisfactory or bad) better or improve"}
     ],
     "B": [
-        {
-            "Blight": "(Verb) A thing that spoils or damages something"
-        },
-        {
-            "Blithe": " Showing a casual and cheerful indifference considered to be callous or improper"
-        },
-        {
-            "Blowhard": "A person who blusters and boasts in an unpleasant way"
-        },
-        {
-            "Bolster": "Support or strengthen"
-        },
-        {
-            "Bombastic": "High-sounding but with little meaning"
-        },
-        {
-            "Burlesque": "Noun, a variety show. Skit, farce, striptease"
-        },
-        {
-            "Barrage": " A concentrated outpouring, as of questions or blows"
-        },
-        {
-            "Bevy": "(Noun) A large quantity of something"
-        },
-        {
-            "Boor": "An unrefined, ill-mannered person"
-        },
-        {
-            "Bucolic": "(Adjective) Relating to the pleasant aspects of the countryside and country life"
-        },
-        {
-            "Bilk": "Obtain or withhold money from (someone) by deceit or without justification"
-        },
-        {
-            "Banal": "So lacking in originality as to be obvious or boring"
-        },
-        {
-            "Bearing": "Relation, relevance"
-        },
-        {
-            "Beguile": "Charm or enchant someone, sometimes in a deceptive way and also, help pass time pleasantly"
-        },
-        {
-            "Beholden": "Owing thanks or having a duty to someone in return for help or service"
-        },
-        {
-            "Belie": "Fail to give a true notion or impression of something; disguise or contradict"
-        },
-        {
-            "Blemish": "Spoil the appearance of something that is otherwise aesthetically perfect"
-        },
-        {
-            "Braggart": "A person who boasts about achievements and possessions"
-        },
-        {
-            "Brandish": "(Verb) To wave or flourish (especially a weapon) as a threat or in anger or excitement"
-        },
-        {
-            "Brazen": "Bold and without shame"
-        },
-        {
-            "Brevity": "Concise and exact use of words in writing or speech"
-        },
-        {
-            "Bridle": "Bring (something) under control; curb"
-        },
-        {
-            "Buoyancy": "An optimistic and cheerful disposition"
-        }
+        {"Blight": "A thing that spoils or damages something"},
+        {"Blithe": "Showing a casual and cheerful indifference considered to be callous or improper"},
+        {"Blowhard": "A person who blusters and boasts in an unpleasant way"},
+        {"Bolster": "Support or strengthen"},
+        {"Bombastic": "High-sounding but with little meaning"},
+        {"Burlesque": "A variety show, skit, farce, or striptease"},
+        {"Barrage": "A concentrated outpouring, as of questions or blows"},
+        {"Bevy": "A large quantity of something"},
+        {"Boor": "An unrefined, ill-mannered person"},
+        {"Bucolic": "Relating to the pleasant aspects of the countryside and country life"}
     ],
     "C": [
-        {
-            "Cacophony": "A harsh, discordant mixture of sounds"
-        },
-        {
-            "Confound": "Cause surprise or confusion in (someone), especially by not according with their expectations"
-        },
-        {
-            "Canonical": " (Of an artist or work) belonging to the literary or artistic canon"
-        },
-        {
-            "Capricious": "Given to sudden and unaccountable changes of mood or behavior"
-        },
-        {
-            "Chauvinism": "Excessive or prejudiced loyalty or support for one’s own cause, group, or gender"
-        },
-        {
-            "Circumspect": "Wary and unwilling to take risks"
-        },
-        {
-            "Coalesce": "Come together and form one mass or whole"
-        },
-        {
-            "Coffer": "The funds or financial reserves of a group or institution"
-        },
-        {
-            "Condone": "Accept and allow (behavior that is considered morally wrong or offensive)"
-        },
-        {
-            "Contrite": "Feeling or expressing remorse or penitence"
-        },
-        {
-            "Credulous": "having or showing too great a readiness to believe things"
-        },
-        {
-            "Canard": "An unfounded rumor or story"
-        },
-        {
-            "Catharsis": "The process of releasing and providing relief from strong or repressed emotions"
-        },
-        {
-            "Cloture": "(In a legislative assembly) a procedure for ending a debate and taking a vote"
-        },
-        {
-            "Compendium": "A collection of concise but detailed information about a particular subject"
-        },
-        {
-            "Conscript": "(Verb) Enlist (someone) compulsorily"
-        },
-        {
-            "Coterie": "A small group of people with shared interests or tastes"
-        },
-        {
-            "Cosset": "Care for and protect in an overindulgent way"
-        },
-        {
-            "Calamitous": "Involving calamity; catastrophic or disastrous"
-        },
-        {
-            "Callous": "Feeling or showing no sympathy for others"
-        },
-        {
-            "Calumny": "A false accusation or allegation"
-        },
-        {
-            "Canny": "Similar to acumen, especially in money and business matters"
-        },
-        {
-            "Canonize": "Treat or regard as being reproach or of great significance"
-        },
-        {
-            "Cerebral": "Intellectual rather than emotional or physical"
-        },
-        {
-            "Check": "Stop or slow down the progress down (of something undesirable)"
-        },
-        {
-            "Circumscribe": "Restrict something within limits"
-        },
-        {
-            "Circumstantial": "Pointing indirectly towards someone's guilt but not conclusively proving it"
-        },
-        {
-            "Clangor": "A continuous loud banging or ringing sound"
-        },
-        {
-            "Cogent": "Clear, logical and convincing"
-        },
-        {
-            "Collusion": "Secret or illegal cooperation working together or conspiracy, especially in order to cheat or deceive others"
-        },
-        {
-            "Commensurate": "(Adjective) Corresponding in size or degree; in proportion, e.g. salary will be commensurate with age and experience."
-        },
-        {
-            "Complacent": "Showing smug or uncritical satisfaction with oneself or one's achievements"
-        },
-        {
-            "Consensus": "A general agreement or opinion"
-        },
-        {
-            "Conspicious": "Standing out so as to be clearly visible"
-        },
-        {
-            "Contend": "1. Struggle or surmount (a difficulty or danger). 2. Assert something as a position in an argument. 3. Engage in a competition in order to win or achieve something."
-        },
-        {
-            "Conundrum": "A difficult problem that is not easily solved"
-        },
-        {
-            "Copious": "Many or abundant"
-        },
-        {
-            "Corroborate": "Confirm or give support to (a statement, theory or belief)"
-        },
-        {
-            "Cow": "Cause (someone) to submit to one's wishes by intimidation"
-        },
-        {
-            "Crestfallen": "Sad or disappointed"
-        },
-        {
-            "Cursory": "Hasty and therefore not detailed"
-        },
-        {
-            "Curtail": "To make less by or as if by cutting off or away some part"
-        },
-        {
-            "Cynical": "Believeing that people are motivated by self-interest; distrustful of human sincerity or integrity"
-        }
+        {"Cacophony": "A harsh, discordant mixture of sounds"},
+        {"Confound": "Cause surprise or confusion in (someone), especially by not according with their expectations"},
+        {"Canonical": "(Of an artist or work) belonging to the literary or artistic canon"},
+        {"Capricious": "Given to sudden and unaccountable changes of mood or behavior"},
+        {"Chauvinism": "Excessive or prejudiced loyalty or support for one’s own cause, group, or gender"},
+        {"Circumspect": "Wary and unwilling to take risks"},
+        {"Coalesce": "Come together and form one mass or whole"},
+        {"Coffer": "The funds or financial reserves of a group or institution"},
+        {"Condone": "Accept and allow (behavior that is considered morally wrong or offensive)"},
+        {"Contrite": "Feeling or expressing remorse or penitence"}
     ],
     "D": [
-        {
-            "Deign": "Do something that one considers to be beneath one's dignity"
-        },
-        {
-            "Disingenuous": "Not candid or sincere"
-        },
-        {
-            "Docile": "Ready to accept control or instruction; submissive"
-        },
-        {
-            "Doff": "(Verb) Remove (an item of clothing)"
-        },
-        {
-            "Demur": "(Verb) Raise doubts or objections or show reluctance"
-        },
-        {
-            "Depravity": "(Noun) Moral corruption; wickedness"
-        },
-        {
-            "Deride": "Ridicule"
-        },
-        {
-            "Diatribe": "A bitter verbal attack"
-        },
-        {
-            "Dictum": "A short statement that expresses a general truth or principle"
-        },
-        {
-            "Diffuse": "Spread out or disseminate"
-        },
-        {
-            "Dilate": "Make wider or more extensive"
-        },
-        {
-            "Discordant": "Not harmonious or in agreement"
-        },
-        {
-            "Divest": "Remove (something) from possession"
-        },
-        {
-            "Droll": "Funny or amusing"
-        },
-        {
-            "Daguerreotype": "A picture that is reproduced in a different form"
-        },
-        {
-            "Dilettante": "A person who cultivates an area of interest without real commitment or knowledge"
-        },
-        {
-            "Diurnal": "Occurring during the day"
-        },
-        {
-            "Dross": "A worthless or worthless thing"
-        },
-        {
-            "Dyspeptic": "Of or having indigestion or consequent irritability or"
-        }
+        {"Deign": "Do something that one considers to be beneath one's dignity"},
+        {"Disingenuous": "Not candid or sincere"},
+        {"Docile": "Ready to accept control or instruction; submissive"},
+        {"Doff": "Remove (an item of clothing)"},
+        {"Demur": "Raise doubts or objections or show reluctance"},
+        {"Depravity": "Moral corruption; wickedness"},
+        {"Deride": "Ridicule"},
+        {"Diatribe": "A bitter verbal attack"},
+        {"Dictum": "A short statement that expresses a general truth or principle"},
+        {"Diffuse": "Spread out or disseminate"}
     ],
     "E": [
-        {
-            "Endow": "Provide with a quality, ability, or asset"
-        },
-        {
-            "Ephemeral": "Lasting for a very short time"
-        },
-        {
-            "Ethos": "The characteristic spirit of a culture, era, or community"
-        },
-        {
-            "Echelon": "A level or rank in an organization, a profession, or society"
-        },
-        {
-            "Eddy": "(Verb) (of water, air, or smoke) move in a circular way"
-        },
-        {
-            "Effigy": "A sculpture or model of a person"
-        },
-        {
-            "Epistemology": "The study of knowledge"
-        },
-        {
-            "Epithet": "An adjective or descriptive phrase expressing a quality characteristic of the person or thing; a term of abuse"
-        },
-        {
-            "Errant": "Erring or straying from the proper course or standards"
-        },
-        {
-            "Esoteric": " Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest"
-        },
-        {
-            "Extol:": "Praise highly"
-        },
-        {
-            "Ebullient": "Overflowing with enthusiasm or energy"
-        },
-        {
-            "Edify": "Educate or instruct"
-        },
-        {
-            "Egress": "(Noun) The action of going out of or leaving a place"
-        },
-        {
-            "Ersatz": "A substitute or substitute for something that is missing or not available"
-        },
-        {
-            "Erstwhile": "Of or relating to the past"
-        },
-        {
-            "Euphony": "The quality of being pleasing to the ear"
-        },
-        {
-            "Expiate": "Atone for (guilt or sin)"
-        },
-        {
-            "Extant": "Still existing"
-        },
-        {
-            "Equivocal": "Ambiguous, open to interpretation"
-        },
-        {
-            "Estrangement": "The state of being alienated or separated in feeling or affection; a state of hostility or unfriendliness:"
-        }
-        
+        {"Endow": "Provide with a quality, ability, or asset"},
+        {"Ephemeral": "Lasting for a very short time"},
+        {"Ethos": "The characteristic spirit of a culture, era, or community"},
+        {"Echelon": "A level or rank in an organization, a profession, or society"},
+        {"Eddy": "(Of water, air, or smoke) move in a circular way"},
+        {"Effigy": "A sculpture or model of a person"},
+        {"Epistemology": "The study of knowledge"},
+        {"Epithet": "An adjective or descriptive phrase expressing a quality characteristic of the person or thing; a term of abuse"},
+        {"Errant": "Erring or straying from the proper course or standards"},
+        {"Esoteric": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest"}
     ],
     "F": [
-        {
-            "Facetious": "Treating serious issues with deliberately inappropriate humor"
-        },
-        {
-            "Fallow": "Inactive"
-        },
-        {
-            "Falter": "Move back and forth or waver"
-        },
-        {
-            "Flail": "Struggle uselessly"
-        },
-        {
-            "Fluke": "Unlikely chance occurrence, especially a surprising piece of luck"
-        },
-        {
-            "Forage": "Search for food"
-        },
-        {
-            "Fortuitous": "Occurring by chance"
-        },
-        {
-            "Fringe": "The unconventional, extreme, or marginal wing of a group or sphere of activity" 
-        },
-        {
-            "Facade": "The face of a building"
-        },
-        {
-            "Fetid": "Smelling extremely unpleasant"
-        },
-        {
-            "Florid": "Using unusual words or complicated rhetorical constructions"
-        },
-        {
-            "Flout": "Openly disregard"
-        },
-        {
-            "Foible": "A minor weakness or eccentricity in someone’s character"
-        },
-        {
-            "Forestall": "Prevent or prevent from happening"
-        },
-        {
-            "Frenetic": "Fast and energetic in a rather wild and uncontrolled way"
-        },
-        {
-            "Fracas": "A noisy disturbance or quarrel"
-        },
-        {
-            "Frieze": "A broad horizontal band of sculpted or painted decoration, especially on a wall near the ceiling"
-        },
-        {
-            "Fusillade": "A series of rapid and successive attacks"
-        }
+        {"Facetious": "Treating serious issues with deliberately inappropriate humor"},
+        {"Fallow": "Inactive"},
+        {"Falter": "Move back and forth or waver"},
+        {"Flail": "Struggle uselessly"},
+        {"Fluke": "Unlikely chance occurrence, especially a surprising piece of luck"},
+        {"Forage": "Search for food"},
+        {"Fortuitous": "Occurring by chance"},
+        {"Fringe": "The unconventional, extreme, or marginal wing of a group or sphere of activity"},
+        {"Facade": "The face of a building"},
+        {"Fetid": "Smelling extremely unpleasant"}
+    ],
+    "G": [
+        {"Garrulous": "Excessively talkative, especially on trivial matters"},
+        {"Glimmer": "A faint or wavering light"},
+        {"Gratuitous": "Uncalled for; lacking good reason; unwarranted"},
+        {"Gregarious": "Fond of company; sociable"},
+        {"Grandiose": "Impressive or magnificent in appearance or style"},
+        {"Gainsay": "Deny or contradict"},
+        {"Germane": "Relevant to a subject under consideration"},
+        {"Gamut": "The complete range or extent of something"},
+        {"Guile": "Sly or cunning intelligence"},
+        {"Galvanize": "Shock or excite (someone) into taking action"}
+    ],
+    "H": [
+        {"Hapless": "Unfortunate or unlucky"},
+        {"Hap": "Chance or fortune"},
+        {"Heed": "Pay attention to"},
+        {"Histrionic": "Overly theatrical or melodramatic in character or style"},
+        {"Humble": "Having or showing a modest or low estimate of one's importance"},
+        {"Hesitant": "Tentative, unsure, or slow in acting or speaking"},
+        {"Harangue": "A lengthy and aggressive speech"},
+        {"Hyperbole": "Exaggerated statements or claims not meant to be taken literally"},
+        {"Havoc": "Widespread destruction or devastation"},
+        {"Hypocritical": "Behaving in a way that suggests one has higher standards or more noble beliefs than is the case"}
     ],
     "I": [
-        {
-            "Intractable": "(Adj.) Hard to control or deal with, difficult or stubborn"
-        },
-        {
-            "Investiture": "The act of process of investing"
-        }
+        {"Intractable": "Hard to control or deal with, difficult or stubborn"},
+        {"Investiture": "The act of process of investing"},
+        {"Indolent": "Wanting to avoid activity or exertion; lazy"},
+        {"Impetuous": "Acting or done quickly and without thought or care"},
+        {"Insidious": "Proceeding in a gradual, subtle way, but with harmful effects"},
+        {"Intransigent": "Unwilling or refusing to change one's views or to agree about something"},
+        {"Inveterate": "Having a particular habit, activity, or interest that is long-established and unlikely to change"},
+        {"Irascible": "Having or showing a tendency to be easily angered"},
+        {"Iconoclast": "A person who attacks or criticizes cherished beliefs or institutions"},
+        {"Innocuous": "Not harmful or offensive"}
+    ],
+    "J": [
+        {"Juxtapose": "Place or deal with close together for contrasting effect"},
+        {"Jubilant": "Feeling or expressing great happiness and triumph"},
+        {"Jovial": "Cheerful and friendly"},
+        {"Jargon": "Special words or expressions used by a profession or group that are difficult for others to understand"},
+        {"Jettison": "Throw or drop something from an aircraft or ship"},
+        {"Jeopardize": "Put something into a situation in which there is danger of loss, harm, or failure"},
+        {"Jaded": "Tired, bored, or lacking enthusiasm, typically after having had too much of something"},
+        {"Junction": "A point where two or more things are joined"},
+        {"Justify": "Show or prove to be right or reasonable"},
+        {"Jostle": "Push, elbow, or bump against someone roughly, typically in a crowd"}
+    ],
+    "K": [
+        {"Keen": "Having or showing eagerness or enthusiasm"},
+        {"Kinetics": "The branch of chemistry or biochemistry concerned with measuring and studying the rates of reactions"},
+        {"Kaleidoscope": "A constantly changing pattern of shapes and colors"},
+        {"Kudos": "Praise and honor received for an achievement"},
+        {"Kinetic": "Relating to or resulting from motion"},
+        {"Kismet": "Destiny; fate"},
+        {"Knack": "An acquired or natural skill at performing a task"},
+        {"Keen": "Sharp or penetrating, in particular, to the sense of smell or taste"},
+        {"Kingpin": "The most important person in a group or organization"},
+        {"Kale": "A type of green leafy vegetable"}
+    ],
+    "L": [
+        {"Lethargic": "Affected by lethargy; sluggish and apathetic"},
+        {"Luminous": "Full of or shedding light; bright or shining, especially in the dark"},
+        {"Lucid": "Expressed clearly; easy to understand"},
+        {"Loquacious": "Tending to talk a great deal; talkative"},
+        {"Laconic": "Using very few words"},
+        {"Lament": "A passionate expression of grief or sorrow"},
+        {"Lurid": "Very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect"},
+        {"Lascivious": "Feeling or revealing an overt and often offensive sexual desire"},
+        {"Lethargy": "A lack of energy and enthusiasm"},
+        {"Libel": "A published false statement that is damaging to a person's reputation"}
     ],
     "M": [
-        {
-            "Mitigate": "Make (something bad) less severe, serious, or painful"
-        }
+        {"Mellifluous": "Sweet or musical; pleasant to hear"},
+        {"Mitigate": "Make less severe, serious, or painful"},
+        {"Mundane": "Lacking interest or excitement; dull"},
+        {"Myriad": "A countless or extremely great number"},
+        {"Mollify": "Appease the anger or anxiety of (someone)"},
+        {"Magnanimous": "Very generous or forgiving, especially toward a rival or someone less powerful than oneself"},
+        {"Modicum": "A small quantity of a particular thing"},
+        {"Maverick": "An unorthodox or independent-minded person"},
+        {"Misanthrope": "A person who dislikes humankind and avoids human society"},
+        {"Machiavellian": "Cunning, scheming, and unscrupulous, especially in politics or in advancing one's career"}
     ],
-    "R": [
-        {
-            "Reticent": "Not revealing one's thoughts or feelings readily."
-        }
+    "N": [
+        {"Nefarious": "Wicked or criminal"},
+        {"Nostalgic": "Longing for the past, often with a sense of wistfulness"},
+        {"Nefarious": "Wicked or criminal"},
+        {"Nascent": "Just coming into existence and beginning to display signs of future potential"},
+        {"Nuance": "A subtle difference or shade of meaning, expression, or sound"},
+        {"Noxious": "Harmful, poisonous, or very unpleasant"},
+        {"Nefarious": "Wicked or criminal"},
+        {"Nucleus": "The central and most important part of an object, movement, or group"},
+        {"Nonchalant": "Feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm"},
+        {"Nimble": "Quick and light in movement or action; agile"}
     ],
-    "S": [
-        {
-            "Specious": "Apparently good or right though lacking real merit; superficially pleasing or plausible"
-        },
-        {
-            "Spurious": "Not genuine, authentic, or true; not from the claimed, pretended, or proper source; counterfeit."
-        },
-        {
-            "Squalid": "Foul and repulsive, as from lack of care or cleanliness; neglected and filthy."
-        },
-        {
-            "Stolid": "Not easily stirred or moved mentally; unemotional; impassive."
-        },
-        {
-            "Stoic": "Of or relating to the school of philosophy founded by Zeno, who taught that people should be free from passion, unmoved by joy or grief, and submit without complaint to unavoidable necessity."
-        },
-        {
-            "Salubrious": "Healthy and wholesome"
-        },
-        {
-            "Sanguine": "Optimistic and positive, especially in an apparently bad or difficult situation."
-        },
-        {
-            "Sartorial": "Relating to tailoring, clothes, or style of dress."
-        },
-        {
-            "Scanty": "Small or insufficient in quantity or amount."
-        },
-        {
-            "Scathe": "To harm or injure."
-        },
-        {
-            "Schism": "A split or division between strongly opposed sections or parties, caused difference in opinions or beliefs."
-        },
-        {
-            "Scintillating": "Brilliantly and excitingly clever or skillful."
-        },
-        {
-            "Scornful": "Feeling or expressing contempt or disapproval."
-        },
-        {
-            "Scrupulous": "Adhering strictly to standards of ethics or morality."
-        }
+    "O": [
+        {"Obscure": "Not discovered or known about; uncertain"},
+        {"Oblivious": "Not aware of or not concerned about what is happening around one"},
+        {"Ominous": "Giving the impression that something bad or unpleasant is going to happen"},
+        {"Omnipotent": "Having unlimited power; able to do anything"},
+        {"Obfuscate": "To make something less clear and more difficult to understand"},
+        {"Opulent": "Ostentatiously rich and luxurious or lavish"},
+        {"Odious": "Extremely unpleasant; repulsive"},
+        {"Onus": "A burden, duty, or responsibility"},
+        {"Opine": "Hold and state as one's opinion"},
+        {"Obsequious": "Obedient or attentive to an excessive or servile degree"}
     ],
     "P": [
-        {
-            "Pragmatic": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations."
-        }
+        {"Pernicious": "Having a harmful effect, especially in a gradual or subtle way"},
+        {"Pragmatic": "Dealing with things sensibly and realistically"},
+        {"Paucity": "The presence of something in only small or insufficient quantities or amounts"},
+        {"Pernicious": "Having a harmful effect, especially in a gradual or subtle way"},
+        {"Propitious": "Giving or indicating a good chance of success; favorable"},
+        {"Prognosticate": "Foretell or prophesy"},
+        {"Panacea": "A solution or remedy for all difficulties or diseases"},
+        {"Pedantic": "Excessively concerned with minor details or rules"},
+        {"Pithy": "Concise and forcefully expressive"},
+        {"Pensive": "Engaged in serious thought"}
+    ],
+    "Q": [
+        {"Quaint": "Attractively unusual or old-fashioned"},
+        {"Quiescent": "In a state of inactivity or dormancy"},
+        {"Quotidian": "Of or occurring every day; daily"},
+        {"Quixotic": "Exceedingly idealistic; unrealistic and impractical"},
+        {"Querulous": "Complaining in a petulant or whining manner"},
+        {"Quintessential": "Representing the most perfect or typical example of a quality or class"},
+        {"Quibble": "A slight objection or criticism"},
+        {"Quarantine": "A state of isolation to prevent the spread of disease"},
+        {"Quotient": "A result obtained by dividing one quantity by another"},
+        {"Quantum": "A required or allowed amount"}
+    ],
+    "R": [
+        {"Resilient": "Able to recover quickly from difficult conditions"},
+        {"Recalcitrant": "Having an obstinately uncooperative attitude towards authority or discipline"},
+        {"Rudimentary": "Involving or limited to basic principles"},
+        {"Reticent": "Not revealing one's thoughts or feelings readily"},
+        {"Reverberate": "To have a prolonged effect or impact"},
+        {"Remiss": "Lacking care or attention to duty; negligent"},
+        {"Ravenous": "Extremely hungry"},
+        {"Resplendent": "Attractive and impressive through being richly colorful or sumptuous"},
+        {"Rhapsodize": "Speak or write about something with great enthusiasm and delight"},
+        {"Reproach": "Address someone in such a way as to express disapproval or disappointment"}
+    ],
+    "S": [
+        {"Sycophant": "A person who acts obsequiously toward someone important in order to gain advantage"},
+        {"Serendipity": "The occurrence of events by chance in a happy or beneficial way"},
+        {"Sublime": "Of such excellence, grandeur, or beauty as to inspire great admiration or awe"},
+        {"Scrutinize": "Examine or inspect closely and thoroughly"},
+        {"Sophisticated": "Developed to a high degree of refinement; worldly-wise"},
+        {"Substantiate": "Provide evidence to support or prove the truth of"},
+        {"Soporific": "Tending to induce drowsiness or sleep"},
+        {"Sagacious": "Having or showing keen mental discernment and good judgment"},
+        {"Sycophantic": "Behaving or done in an obsequious way to gain advantage"},
+        {"Surreptitious": "Kept secret, especially because it would not be approved of"}
+    ],
+    "T": [
+        {"Turbulent": "Characterized by conflict, disorder, or confusion; not controlled or calm"},
+        {"Tenuous": "Very weak or insubstantial; flimsy"},
+        {"Tranquil": "Free from disturbance; calm"},
+        {"Temerity": "Excessive confidence or boldness; audacity"},
+        {"Taut": "Stretched or pulled tight; not slack"},
+        {"Taciturn": "Reserved or uncommunicative in speech; saying little"},
+        {"Trite": "Overused and consequently of little import; lacking originality or freshness"},
+        {"Transient": "Lasting only for a short time; impermanent"},
+        {"Tumultuous": "Making a loud, confused noise; uproarious"},
+        {"Turbulent": "Characterized by conflict, disorder, or confusion; not controlled or calm"}
+    ],
+    "U": [
+        {"Ubiquitous": "Present, appearing, or found everywhere"},
+        {"Unfathomable": "Incapable of being fully explored or understood"},
+        {"Uphold": "Maintain (a custom or practice)"},
+        {"Unequivocal": "Leaving no doubt; unambiguous"},
+        {"Uptick": "A small increase"},
+        {"Usurp": "Take (a position of power or importance) illegally or by force"},
+        {"Unprecedented": "Never done or known before"},
+        {"Unravel": "Investigate and solve or explain something complicated or puzzling"},
+        {"Utilitarian": "Designed to be useful or practical rather than attractive"},
+        {"Undermine": "Erode the base or foundation of (a rock formation)"}
+    ],
+    "V": [
+        {"Venerable": "Accorded a great deal of respect, especially because of age, wisdom, or character"},
+        {"Voracious": "Wanting or devouring great quantities of food"},
+        {"Vex": "Make (someone) feel annoyed, frustrated, or worried, especially with trivial matters"},
+        {"Verbose": "Using more words than needed"},
+        {"Vehement": "Showing strong feeling; forceful, passionate, or intense"},
+        {"Vicarious": "Experienced in the imagination through the feelings or actions of another person"},
+        {"Vacillate": "Alternate or waver between different opinions or actions; be indecisive"},
+        {"Vicissitude": "A change of circumstances or fortune, typically one that is unwelcome or unpleasant"},
+        {"Vivid": "Producing powerful feelings or strong, clear images in the mind"},
+        {"Vicarious": "Experienced in the imagination through the feelings or actions of another person"}
+    ],
+    "W": [
+        {"Whimsical": "Playfully quaint or fanciful, especially in an appealing and amusing way"},
+        {"Wary": "Feeling or showing caution about possible dangers or problems"},
+        {"Wistful": "Longing or yearning for something that may never be obtained"},
+        {"Wretched": "In a very unhappy or unfortunate state"},
+        {"Wheedle": "Use flattery or coaxing in order to persuade someone to do something or give one something"},
+        {"Warrant": "A document issued by a legal or government official authorizing the police to take a particular action"},
+        {"Wane": "Decrease in vigor, power, or extent; become weaker"},
+        {"Whittle": "Carve small pieces from (a piece of wood) by repeatedly cutting it with a knife"},
+        {"Wallow": "Roll about or lie in water, snow, or mud; luxuriate in something"},
+        {"Wry": "Using or expressing dry, especially mocking, humor"}
+    ],
+    "X": [
+        {"Xenophobia": "Intense or irrational dislike or fear of people from other countries"},
+        {"Xenial": "Relating to hospitality or relations between hosts and guests"},
+        {"Xeric": "Characterized by a lack of moisture; arid"},
+        {"Xenon": "A chemical element (symbol Xe) used in some types of lamps and in high-performance imaging"},
+        {"Xerox": "To make a copy of (a document) using a xerographic process"},
+        {"Xylophone": "A musical instrument with wooden bars struck by mallets"},
+        {"Xenolith": "A rock fragment embedded in another type of rock"},
+        {"Xenogenesis": "The production of offspring radically different from the parents"},
+        {"Xylotomy": "The study of the structure of wood"},
+        {"Xanthic": "Yellowish or yellow"} 
+    ],
+    "Y": [
+        {"Yen": "A strong desire or craving"},
+        {"Yoke": "A wooden crosspiece fastened over the necks of two animals and attached to the plow or cart they are to pull"},
+        {"Yield": "To produce or provide (a natural, agricultural, or industrial product)"},
+        {"Yawn": "To involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom"},
+        {"Yen": "A strong desire or craving"},
+        {"Yarn": "A long, often elaborate narrative of real or fictive adventures; an epic"},
+        {"Yelp": "A high-pitched bark or cry"},
+        {"Yoke": "A device used to join two animals together for plowing or pulling carts"},
+        {"Yummy": "Delicious"},
+        {"Yardstick": "A measuring stick one yard long, typically divided into inches or centimeters"}
+    ],
+    "Z": [
+        {"Zephyr": "A gentle, mild breeze"},
+        {"Zenith": "The time at which something is most powerful or successful"},
+        {"Zealous": "Having or showing zeal; enthusiastic and eager"},
+        {"Zest": "Great enthusiasm and energy"},
+        {"Zenith": "The time at which something is most powerful or successful"},
+        {"Zany": "Amusingly unconventional and idiosyncratic"},
+        {"Zodiac": "A band of the sky divided into 12 equal parts, each named after a constellation"},
+        {"Zephyr": "A gentle, mild breeze"},
+        {"Zygote": "A fertilized ovum"},
+        {"Zestful": "Full of energy and enthusiasm"}
     ]
 }
